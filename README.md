@@ -1,5 +1,5 @@
 ## Assalamu'alaikum 🙏
-My name is Shehroz Khan, I am a Software Engineer and founder of [eFishery](https://minicalculators.com/). 
+My name is Shehroz Khan, I am a Software Engineer and founder of [mincalculators.com](https://minicalculators.com/). 
 
 
 ## Tech Stack ✨
